@@ -170,7 +170,9 @@ nav ul {
     cursor: pointer;
     color: rgb(129, 7, 153);
   }
-
+  .expandable{
+    display:none;
+  }
 
 
 @media(max-width:576px){
